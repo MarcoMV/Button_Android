@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CodFac</string>
+    <string name="tvTitulo">Tarjeta de invitacion</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_enviar">Enviar Rapido</string>
+    <string name="hint">Ingresa nombre de invitado</string>
+    <string name="btn_lento">Enviar Lento</string>
+
+</resources>
